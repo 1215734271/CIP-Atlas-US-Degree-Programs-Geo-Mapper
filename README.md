@@ -37,9 +37,8 @@ The generated HTML maps are powered by `pyecharts` and come with several built-i
 
 1. **State Hover (Heatmap)**: Hover your cursor over any state to reveal its full name. The color intensity of the state indicates the relative number of universities offering the program.
 2. **University Hover (Scatter Points)**: Hover over any dark blue dot on the map to display the exact name of the specific university located at those coordinates.
-3. **Dynamic Visual Map Filter**: In the bottom left corner, there is a continuous color gradient bar. 
-   - Hovering over it shows the numerical value (number of universities). 
-   - You can **click and drag the handles** on the top or bottom of this bar to dynamically filter the map, highlighting only the states that fall within your selected range of university counts.
+3. **Color Gradient Legend**: In the bottom left corner, there is a continuous color gradient bar. 
+   - Hovering over it or clicking and dragging the handles will display specific numerical values along the spectrum. This serves as a precise visual reference guide to help you interpret the color intensity of the states on the map.
 
 ## 📊 Live Examples
 
